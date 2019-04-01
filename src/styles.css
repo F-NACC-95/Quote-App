@@ -1,10 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 .App {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
 
 html {
-  background-color: #205472;
+  background-image: url("https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
 }
   
 body {
@@ -13,33 +18,67 @@ body {
 }
   
 .quote__box {
-  background-color: #bac7d6;
-  margin-top: 20vh;
-  height: 60vh;
-  width: 60vw;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 20px;  
+  margin-top: 10vh;
+  height: 80vh;
+  width: 30vw;
+  margin-left: 5vw;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+.quote__quotations__left {
+  text-align: left;
+  margin-left: 20%;
+  font-size: 40px;
+  color: rgb(32, 102, 160);
+}
+
+.quote__quotations__right {
+  text-align: right;
+  margin-right: 20%;
+  font-size: 40px;
+  color: rgb(32, 102, 160);
 }
  
 .new__quote__button {
   font-size: 20px; 
   margin-top: 3rem;
   margin-bottom: 3rem;
+  width: 200px;
+  background-color: rgb(32, 102, 160);
+  color: white;
 }
 
 .current__quote {
-  font-size: 30px;
-  width: 70%;
+  font-size: 24px;
+  width: 80%;
   margin: auto;
   text-align: center;
   line-height: 60px;
-  font-style: italic;
 }
 
 .current__author {
   font-size: 15px;
-  text-align: right;
-  margin-right: 20%;
-  margin-top: 3em;
+  padding-top: 3em;
+  border-top: 2px solid rgb(32, 102, 160);
+  width: 40%;
+  margin: auto;
+  font-style: italic;
+}
+
+@media only screen and (max-width: 1200px){
+  .quote__box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50vw;
+  }
+}
+
+@media only screen and (max-width: 700px){
+  .quote__box {
+    width: 100vw;
+    height: 100vh;
+    margin-top: 0vh;
+  }
 }
