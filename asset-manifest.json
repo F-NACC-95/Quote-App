@@ -1,0 +1,13 @@
+{
+  "main.css": "/quote-app/static/css/main.7df4f279.chunk.css",
+  "main.js": "/quote-app/static/js/main.911c8b83.chunk.js",
+  "main.js.map": "/quote-app/static/js/main.911c8b83.chunk.js.map",
+  "static/js/1.8b6de340.chunk.js": "/quote-app/static/js/1.8b6de340.chunk.js",
+  "static/js/1.8b6de340.chunk.js.map": "/quote-app/static/js/1.8b6de340.chunk.js.map",
+  "runtime~main.js": "/quote-app/static/js/runtime~main.da967fc2.js",
+  "runtime~main.js.map": "/quote-app/static/js/runtime~main.da967fc2.js.map",
+  "static/css/main.7df4f279.chunk.css.map": "/quote-app/static/css/main.7df4f279.chunk.css.map",
+  "index.html": "/quote-app/index.html",
+  "precache-manifest.816325ce95d05811e75628d773b75efb.js": "/quote-app/precache-manifest.816325ce95d05811e75628d773b75efb.js",
+  "service-worker.js": "/quote-app/service-worker.js"
+}
