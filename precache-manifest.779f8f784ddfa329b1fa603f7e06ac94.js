@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/quote-app/static/js/runtime~main.da967fc2.js"
   },
   {
-    "revision": "911c8b839bf15d3deae7",
-    "url": "/quote-app/static/js/main.911c8b83.chunk.js"
+    "revision": "6970d4cb1fa12e72bf01",
+    "url": "/quote-app/static/js/main.6970d4cb.chunk.js"
   },
   {
     "revision": "8b6de34057951420861c",
     "url": "/quote-app/static/js/1.8b6de340.chunk.js"
   },
   {
-    "revision": "911c8b839bf15d3deae7",
-    "url": "/quote-app/static/css/main.7df4f279.chunk.css"
+    "revision": "6970d4cb1fa12e72bf01",
+    "url": "/quote-app/static/css/main.9edc2f8a.chunk.css"
   },
   {
-    "revision": "8651b6e482e287e8397c4ad6dc1c0f5b",
+    "revision": "f85c0c701cc18a8e63331c50591be94e",
     "url": "/quote-app/index.html"
   }
 ];
