@@ -27,7 +27,7 @@ button:focus {
   width: 30vw;
   margin-left: 5vw;
   border-radius: 20px;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.6);
   color: white;
 }
 
@@ -49,10 +49,14 @@ button:focus {
   font-size: 20px; 
   margin-top: 3rem;
   margin-bottom: 3rem;
+  padding: 0.5rem;
   width: 150px;
   background-color: rgb(32, 102, 160);
   color: white;
-  border-radius: 10px;
+}
+
+.new__quote__button:hover {
+  background-color: rgb(101, 173, 231);
 }
 
 .current__quote {
