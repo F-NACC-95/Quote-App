@@ -61,11 +61,11 @@ button:focus {
 }
 
 .current__quote {
-  font-size: 0.8rem;
+  font-size: 1rem;
   width: 80%;
   margin: auto;
   text-align: center;
-  line-height: 40px;
+  line-height: 2rem;
 }
 
 .current__author {
@@ -77,7 +77,7 @@ button:focus {
   font-style: italic;
 }
 
-@media only screen and (max-width: 1000px){
+@media only screen and (max-width: 1200px){
   .quote__box {
     margin-left: auto;
     margin-right: auto;
@@ -85,24 +85,14 @@ button:focus {
     background-color: rgba(0, 0, 0, 0.2);
   }
 
-  .current__quote {
-    font-size: 0.8rem;
-    width: 80%;
-    line-height: 2.5rem;
-  }
 }
 
-@media only screen and (max-width: 700px){
+@media only screen and (max-width: 600px){
   .quote__box {
     margin-top: 0vh;
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     background-color: rgba(0, 0, 0, 0.2);
   }
 
-  .current__quote {
-    font-size: 0.5rem;
-    width: 80%;
-    line-height: 2.5rem;
-  }
 }
