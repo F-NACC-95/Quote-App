@@ -1,13 +1,13 @@
 {
-  "main.css": "/quote-app/static/css/main.df660cfa.chunk.css",
-  "main.js": "/quote-app/static/js/main.f7d73d79.chunk.js",
-  "main.js.map": "/quote-app/static/js/main.f7d73d79.chunk.js.map",
+  "main.css": "/quote-app/static/css/main.3502fbf4.chunk.css",
+  "main.js": "/quote-app/static/js/main.0484d1df.chunk.js",
+  "main.js.map": "/quote-app/static/js/main.0484d1df.chunk.js.map",
   "static/js/1.8b6de340.chunk.js": "/quote-app/static/js/1.8b6de340.chunk.js",
   "static/js/1.8b6de340.chunk.js.map": "/quote-app/static/js/1.8b6de340.chunk.js.map",
   "runtime~main.js": "/quote-app/static/js/runtime~main.da967fc2.js",
   "runtime~main.js.map": "/quote-app/static/js/runtime~main.da967fc2.js.map",
-  "static/css/main.df660cfa.chunk.css.map": "/quote-app/static/css/main.df660cfa.chunk.css.map",
+  "static/css/main.3502fbf4.chunk.css.map": "/quote-app/static/css/main.3502fbf4.chunk.css.map",
   "index.html": "/quote-app/index.html",
-  "precache-manifest.fe7170ea634c24e86bd86458a02e7968.js": "/quote-app/precache-manifest.fe7170ea634c24e86bd86458a02e7968.js",
+  "precache-manifest.a89f012845b8bd05060cb975f5af0403.js": "/quote-app/precache-manifest.a89f012845b8bd05060cb975f5af0403.js",
   "service-worker.js": "/quote-app/service-worker.js"
 }
