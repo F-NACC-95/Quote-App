@@ -10,6 +10,7 @@
 
 html {
   background-image: url("https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-position: center;
 }
   
 body {
@@ -26,8 +27,7 @@ button:focus {
   height: 80vh;
   width: 30vw;
   margin-left: 5vw;
-  border-radius: 20px;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.2);
   color: white;
 }
 
@@ -47,7 +47,7 @@ button:focus {
  
 .new__quote__button {
   font-size: 20px; 
-  margin-top: 3rem;
+  margin-top: 2rem;
   margin-bottom: 3rem;
   padding: 0.5rem;
   width: 150px;
@@ -60,7 +60,7 @@ button:focus {
 }
 
 .current__quote {
-  font-size: 22px;
+  font-size: 16px;
   width: 80%;
   margin: auto;
   text-align: center;
@@ -80,16 +80,27 @@ button:focus {
   .quote__box {
     margin-left: auto;
     margin-right: auto;
-    width: 50vw;
+    width: 70vw;
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+
+  .current__quote {
+    font-size: 0.8rem;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    line-height: 3rem;
   }
 }
 
 @media only screen and (max-width: 700px){
   .quote__box {
-    width: 100vw;
-    height: 70vh;
-    margin-top: 15vh;
+    margin-top: 15%;
     border-radius: 0px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+
+  .quote__box h1{
+    font-size: 1rem;
   }
 }
