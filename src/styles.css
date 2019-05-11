@@ -96,3 +96,13 @@ button:focus {
   }
 
 }
+
+@media only screen and (max-height: 650px){
+  .quote__box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60vw;
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+
+}
